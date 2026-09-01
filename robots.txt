@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adiadi13101310.github.io/resumecraftt/sitemap.xml
